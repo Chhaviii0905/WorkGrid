@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/Services/">
+    <Project Path="Services/WorkGrid.EmployeeService/WorkGrid.EmployeeService.csproj" />
+  </Folder>
+</Solution>
